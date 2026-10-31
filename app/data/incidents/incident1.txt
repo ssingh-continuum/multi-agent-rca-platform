@@ -1,0 +1,10 @@
+Incident 101
+
+Issue:
+Database connection timeout.
+
+Symptoms:
+HTTP 500 errors observed.
+
+Resolution:
+Restarted database and increased pool size.

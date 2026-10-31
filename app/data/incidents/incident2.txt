@@ -1,0 +1,10 @@
+Incident 102
+
+Issue:
+Missing environment variable.
+
+Symptoms:
+HTTP 500 after deployment.
+
+Resolution:
+Added PAYMENT_API_KEY variable.

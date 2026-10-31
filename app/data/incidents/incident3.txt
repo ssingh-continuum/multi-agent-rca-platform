@@ -1,0 +1,10 @@
+Incident 103
+
+Issue:
+Kafka broker unavailable.
+
+Symptoms:
+Message processing failures.
+
+Resolution:
+Restarted broker cluster.

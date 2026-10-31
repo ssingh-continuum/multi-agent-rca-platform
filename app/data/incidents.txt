@@ -1,0 +1,17 @@
+Incident #101
+
+Issue:
+Database connection timeout.
+
+Resolution:
+Restarted database and increased connection pool.
+
+-------------------------
+
+Incident #102
+
+Issue:
+HTTP 500 after deployment.
+
+Resolution:
+Missing environment variable.
